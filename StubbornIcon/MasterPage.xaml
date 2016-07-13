@@ -2,7 +2,12 @@
 <ContentPage
 	xmlns="http://xamarin.com/schemas/2014/forms"
 	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-	x:Class="StubbornIcon.MasterPage">
+	x:Class="StubbornIcon.MasterPage"
+	BackgroundColor="Silver">
 	<ContentPage.Content>
+		<Label
+			x:Name="Message"
+			HorizontalOptions="Center"
+			VerticalOptions="Center" />
 	</ContentPage.Content>
 </ContentPage>

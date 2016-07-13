@@ -4,5 +4,9 @@
 	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
 	x:Class="StubbornIcon.DetailPage">
 	<ContentPage.Content>
+		<Label
+			Text="Here be dragons."
+			VerticalOptions="Center"
+			HorizontalOptions="Center" />
 	</ContentPage.Content>
 </ContentPage>

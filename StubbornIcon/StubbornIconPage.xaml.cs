@@ -2,7 +2,7 @@
 
 namespace StubbornIcon
 {
-	public partial class StubbornIconPage : ContentPage
+	public partial class StubbornIconPage : MasterDetailPage
 	{
 		public StubbornIconPage ()
 		{
